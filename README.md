@@ -1,37 +1,30 @@
-# Infraestutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+# Formação Linux
 
-## O que é?
-Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraesturua por meio de códigos, em vez de processo manuais.
-Com a IaC, são criandos arquivos de configuração que incluem as especificações da sua infrestrutura, facilitando a edição e a distribuição de configurações. Ela também assegura o provisionamento do mesmo ambiente todas as vezes.
+**1 - Introdução ao Linux**
 
-## Controle de versão
-O controle de versão é uma parte importante da IaC. Os arquivos de configuração devem pertencer à fonte como qualquer outro código-fonte de software. Ao implantar a infraestrutura como código, tabém é possível separá-la em módulos, que podem ser combinados de diferentes maneiras por meio da automação.
+- [x] Introdução ao Sistema Operacional Linux
+- [x] Instalando o Linux
+- [x] Acesso Remoto a Máquinas Linux
 
-## Principal benefício
-Ao automatizar o provisionamento da infraestrutura com a IaC, os desenvolvedores não precisam provisionar e gerenciar manualmente servidores, sistemas operacionais, armazenamento e outros componentes de infraestrutura sempre que criam ou implantam uma aplicação.
+**2 - Trabalhando com Usuários, Arquivos e Diretórios no Linux**
 
-## Regras do Desafio 
-- [x] Excluir diretórios, arquivos, grupos e usuários criandos anteriormente;
-- [x] Todo provisionamento deve ser feito em um arquivo do tipo **Bash Script**;
-- [x] O dono de todos os diretórios criados será o usuário **root**;
-- [x] Todos os usuários terão permissão total dentro do diretório **publico**;
-- [x] Os usuários de cada grupo terão permissão total dentro de seu respectivo diretório
-- [x] Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem.
+- [x] Manipulando Arquivos no Linux
+- [x] Gerenciando Usuários no Linux
+- [x] Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
-## Diretórios
-**/publico**
-**/adm**
-**/ven**
-**/sec**
+**3 - Gerenciamento de Pacotes e Discos no Linux**
 
-## Grupos
-**GRP_ADM**
-**GRP_VEN**
-**GRP_SEC**
+- [ ] Gerenciamento de Pacotes Linux
+- [ ] Gerenciamento de Discos Linux
+- [ ] Copiando Arquivos e Manipulando Processos
 
-## Usuários
-|Usuários|Grupos|
-|---|---|
-|carlos <br> maria <br> joao|GRP_ADM|
-|debora <br> sebastiana <br> roberto|GRP_VEN|
-|josefina <br> amanda <br> rogerio|GRP_SEC|
+**4 - Serviços Linux**
+
+- [ ]  Servidores de Arquivos com Linux
+- [ ]  Criando um Servidor Web com Linux
+- [ ]  Servidor de Banco de Dados com Linux
+- [ ]  Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
+
+**5 - Linux Desktop: Ferramentas Importantes para o Desenvolvedor**
+
+- [ ]  Conhecendo o Linux Desktop
