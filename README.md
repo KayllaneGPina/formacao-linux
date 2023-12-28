@@ -14,9 +14,9 @@
 
 **3 - Gerenciamento de Pacotes e Discos no Linux**
 
-- [ ] Gerenciamento de Pacotes Linux
-- [ ] Gerenciamento de Discos Linux
-- [ ] Copiando Arquivos e Manipulando Processos
+- [x] Gerenciamento de Pacotes Linux
+- [x] Gerenciamento de Discos Linux
+- [x] Copiando Arquivos e Manipulando Processos
 
 **4 - Serviços Linux**
 
