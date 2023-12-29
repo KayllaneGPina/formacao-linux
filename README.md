@@ -20,8 +20,8 @@
 
 **4 - Serviços Linux**
 
-- [ ]  Servidores de Arquivos com Linux
-- [ ]  Criando um Servidor Web com Linux
+- [x]  Servidores de Arquivos com Linux
+- [x]  Criando um Servidor Web com Linux
 - [ ]  Servidor de Banco de Dados com Linux
 - [ ]  Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
 
