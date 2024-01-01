@@ -22,9 +22,9 @@
 
 - [x]  Servidores de Arquivos com Linux
 - [x]  Criando um Servidor Web com Linux
-- [ ]  Servidor de Banco de Dados com Linux
+- [x]  Servidor de Banco de Dados com Linux
 - [ ]  Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)
 
 **5 - Linux Desktop: Ferramentas Importantes para o Desenvolvedor**
 
-- [ ]  Conhecendo o Linux Desktop
+- [x]  Conhecendo o Linux Desktop
